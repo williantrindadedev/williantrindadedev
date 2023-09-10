@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mb5lPzBhRnh+8hqFix7P9QvmNWXoxbRuvUe7KxC8ylZPRpZoBvL0hwnlvvGOvfKNNAgY/WhYn5UyPh2lohbTgg==",
+  "success": true,
+  "projectFilePath": "E:\\_Dev\\Carros\\src\\WTM.CarManager.Business\\WTM.CarManager.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Willian\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Willian\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\Willian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

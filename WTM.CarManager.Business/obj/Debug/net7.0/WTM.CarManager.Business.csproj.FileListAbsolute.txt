@@ -1,0 +1,12 @@
+E:\_Dev\Carros\src\WTM.CarManager.Business\bin\Debug\net7.0\WTM.CarManager.Business.deps.json
+E:\_Dev\Carros\src\WTM.CarManager.Business\bin\Debug\net7.0\WTM.CarManager.Business.dll
+E:\_Dev\Carros\src\WTM.CarManager.Business\bin\Debug\net7.0\WTM.CarManager.Business.pdb
+E:\_Dev\Carros\src\WTM.CarManager.Business\obj\Debug\net7.0\WTM.CarManager.Business.csproj.AssemblyReference.cache
+E:\_Dev\Carros\src\WTM.CarManager.Business\obj\Debug\net7.0\WTM.CarManager.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Dev\Carros\src\WTM.CarManager.Business\obj\Debug\net7.0\WTM.CarManager.Business.AssemblyInfoInputs.cache
+E:\_Dev\Carros\src\WTM.CarManager.Business\obj\Debug\net7.0\WTM.CarManager.Business.AssemblyInfo.cs
+E:\_Dev\Carros\src\WTM.CarManager.Business\obj\Debug\net7.0\WTM.CarManager.Business.csproj.CoreCompileInputs.cache
+E:\_Dev\Carros\src\WTM.CarManager.Business\obj\Debug\net7.0\WTM.CarManager.Business.dll
+E:\_Dev\Carros\src\WTM.CarManager.Business\obj\Debug\net7.0\refint\WTM.CarManager.Business.dll
+E:\_Dev\Carros\src\WTM.CarManager.Business\obj\Debug\net7.0\WTM.CarManager.Business.pdb
+E:\_Dev\Carros\src\WTM.CarManager.Business\obj\Debug\net7.0\ref\WTM.CarManager.Business.dll

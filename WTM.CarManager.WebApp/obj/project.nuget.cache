@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1MJJfYcXu1GZUJVXL3HQ3fdQYCgkwYgL/NoaS4YW2nZ10Z40pjCbyn+CEBrdL4Iase2EeSgTpoWqTyWh/R5yTA==",
+  "success": true,
+  "projectFilePath": "E:\\_Dev\\Carros\\src\\WTM.CarManager.WebApp\\WTM.CarManager.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Willian\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

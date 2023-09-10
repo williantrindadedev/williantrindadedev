@@ -1,0 +1,17 @@
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\bin\Debug\net7.0\WTM.CarManager.Infrasctructure.deps.json
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\bin\Debug\net7.0\WTM.CarManager.Infrasctructure.runtimeconfig.json
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\bin\Debug\net7.0\WTM.CarManager.Infrasctructure.dll
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\bin\Debug\net7.0\WTM.CarManager.Infrasctructure.pdb
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\bin\Debug\net7.0\WTM.CarManager.Business.dll
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\bin\Debug\net7.0\WTM.CarManager.Business.pdb
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\WTM.CarManager.Infrasctructure.csproj.AssemblyReference.cache
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\WTM.CarManager.Infrasctructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\WTM.CarManager.Infrasctructure.AssemblyInfoInputs.cache
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\WTM.CarManager.Infrasctructure.AssemblyInfo.cs
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\WTM.CarManager.Infrasctructure.csproj.CoreCompileInputs.cache
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\WTM.CarManager.Infrasctructure.csproj.CopyComplete
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\WTM.CarManager.Infrasctructure.dll
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\refint\WTM.CarManager.Infrasctructure.dll
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\WTM.CarManager.Infrasctructure.pdb
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\WTM.CarManager.Infrasctructure.genruntimeconfig.cache
+E:\_Dev\Carros\src\WTM.CarManager.Infrasctructure\obj\Debug\net7.0\ref\WTM.CarManager.Infrasctructure.dll
